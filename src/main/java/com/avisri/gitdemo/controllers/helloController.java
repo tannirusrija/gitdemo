@@ -12,6 +12,12 @@ public class helloController {
         {
             return "hello";
         }
+
+    @RequestMapping(value="/done", method = RequestMethod.GET)
+        public String check2()
+        {
+            return "Hi";
+        }
 }
 
 
