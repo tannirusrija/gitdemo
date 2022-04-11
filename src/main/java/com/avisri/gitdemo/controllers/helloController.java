@@ -7,10 +7,10 @@ import org.springframework.web.bind.annotation.RequestMethod;
 @Controller
 public class helloController {
     
-    @RequestMapping(value="/ok", method = RequestMethod.GET)
+    @RequestMapping(value="/Login", method = RequestMethod.GET)
         public String check()
         {
-            return "hello";
+            return "Login";
         }
 
     @RequestMapping(value="/done", method = RequestMethod.GET)
