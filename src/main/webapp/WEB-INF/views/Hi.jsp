@@ -5,16 +5,18 @@
 </head>
 <style>
 div{
-    padding: 250px;
+    padding: 220px;
     background-color:Deeppink;
     border-style: dotted;
     border-width: thick;
 }
-h2 {
+h1 {
     color: DarkBlue;
 }
 </style
 <body>
-    <h2> SuccessFully Completed your Git demo </h2>
+    <div>
+        <h1> SuccessFully Completed your Git demo </h1>
+    </div>
 </body>
 </html>

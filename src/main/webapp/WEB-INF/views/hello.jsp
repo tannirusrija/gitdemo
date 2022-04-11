@@ -5,7 +5,7 @@
 </head>
 <style>
 div{
-    padding: 250px;
+    padding: 220px;
     background-color:DodgerBlue;
     border-style: dotted;
     border-width: thick;
@@ -15,7 +15,7 @@ div{
 <div>
 <h1>Welcome to git demo</h1>
 
-<a href="Hi">Click here to read Success message </a>
+<a href="done">Click here to read Success message </a>
 </div>
 </body>
 </html>
